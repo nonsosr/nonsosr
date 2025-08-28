@@ -25,5 +25,19 @@ My name is Chukwunonso, most commonly known as just Nonso, I'm a final-year Comp
 - **Languages:** Relearning C++ & Python, Java(beginner)
 - **Libraries:** NumPy, Pandas, Matplotlib (expanding knowledge)
 - **Tools:** Git, Linux/Unix, SQL
-- **Currently Learning:** C++ optimization, quantitative methods,
+- **Currently Learning:** C++ optimization, quantitative methods
+
+## 🚀 What I'm Working On
+- 📊 Building a basic stock price analysis program in Python
+- ⚡ Implementing data structures and algorithms in C++
+- 📈 Learning about options pricing models and risk management
+
+
+## 🎯 Career Goals
+Seeking graduate opportunities in quantitative finance, trading technology, and software engineering at financial firms.
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/nonsookpala/ "@embed")
+
+
 
