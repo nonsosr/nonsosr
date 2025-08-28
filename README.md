@@ -38,6 +38,13 @@ Seeking graduate opportunities in quantitative finance, trading technology, and 
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/nonsookpala/ "@embed")
+- [Email](mailto:nonsokpala@outlook.com)
 
+## ⚡ Fun Fact
+I play non-league football, and my dissertation will be on the predictive analysis of football player statistics.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonsosr&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonsosr&layout=compact)
 
 
