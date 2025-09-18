@@ -12,25 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I play non-league football, and I am an avid
 -->
-# Hi there, I am nonsosr 👋
+# Hi there, I am Nonso 👋
 
-My name is Chukwunonso, most commonly known as just Nonso, I'm a final-year Comp Sci student at the University of Reading with a passion for quantitative finance and software engineering.
+I'm a final-year Computer Science student at the University of Reading, with a passion for quantitative finance and software development.
 
 ## 🎓 Academic Focus
 - **Degree:** Computer Science
-- **Relevant Coursework:** Data Structures, Algorithms, Statistics, Linear Algebra, Calculus
+- **Relevant Coursework:** C++, Data Structures, Algorithms, Statistics, Linear Algebra, Calculus
 - **2nd Year Grade:** 2:1
 
 ## 💻 Technical Skills
-- **Languages:** Relearning C++ & Python, Java(beginner)
+- **Languages:** Relearning C++, Python, Java
 - **Libraries:** NumPy, Pandas, Matplotlib (expanding knowledge)
 - **Tools:** Git, Linux/Unix, SQL
 - **Currently Learning:** C++ optimization, quantitative methods
 
 ## 🚀 What I'm Working On
-- 📊 Building a basic stock price analysis program in Python
-- ⚡ Implementing data structures and algorithms in C++
+- 📊 Building a basic Monte Carlo Options Pricing in C++
 - 📈 Learning about options pricing models and risk management
+
 
 
 ## 🎯 Career Goals
