@@ -28,6 +28,7 @@ I'm a final-year Computer Science student at the University of Reading, with a p
 - **Currently Learning:** C++ optimization, quantitative methods
 
 ## 🚀 What I'm Working On
+- 📑 Open Book Simulator in Python
 - 📊 Building a basic Monte Carlo Options Pricing in C++
 - 📈 Learning about options pricing models and risk management
 
